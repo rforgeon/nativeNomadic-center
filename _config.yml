@@ -5,15 +5,15 @@ url: http://rforgeon.github.io # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Ralph Forgeon # Your name will go here
-  description: "A personal portfolio and blog website" # used by search engines
+  title: nativeNomadic # Your name will go here
+  description: "Digital nomad resource and blog website" # used by search engines
 
   # Header and footer text ---> ***Manually added in header.html****
   header_text: >
-    
+
 
   header_text_feature_image:
-  footer_text: 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
+  footer_text: 🌍🌎🌏🌍🌎🌏🌍🌎🌏🌍🌎🌏🌍🌎🌏🌍🌎🌏🌍🌎🌏🌍🌎🌏
 
   # Icons
   rss: false
@@ -23,10 +23,10 @@ theme_settings:
   dribbble:
   facebook:
   flickr:
-  github: rforgeon
+  github:
   google_plus:
   instagram:
-  linkedin:  https://www.linkedin.com/in/forgeon
+  linkedin:
   pinterest:
   reddit:
   soundcloud:
@@ -38,7 +38,7 @@ theme_settings:
   youtube:
 
   # Scripts
-  google_analytics: "UA-84262886-1"
+  google_analytics:
   disqus_shortname:
   katex: true # Enable if using math markup
 

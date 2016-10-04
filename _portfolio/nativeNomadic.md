@@ -1,8 +1,8 @@
 ---
 layout: post
-title: native|Nomadic CoWorking
+title: CoWorking
 thumbnail-path: "https://cldup.com/KlE-6j6pu7.png"
-short-description: Ruby on Rails CoWorking rental platform.
+short-description: Hourly co-working rental platform.
 
 ---
 
