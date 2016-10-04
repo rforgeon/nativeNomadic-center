@@ -1,0 +1,74 @@
+# SITE CONFIGURATION
+baseurl: "" # the subpath of your site, e.g. /blog/ (optional)
+url: http://rforgeon.github.io # the base hostname & protocol for your site
+
+# THEME-SPECIFIC CONFIGURATION
+theme_settings:
+  # Meta
+  title: Ralph Forgeon # Your name will go here
+  description: "A personal portfolio and blog website" # used by search engines
+
+  # Header and footer text ---> ***Manually added in header.html****
+  header_text: >
+    
+
+  header_text_feature_image:
+  footer_text: 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
+
+  # Icons
+  rss: false
+  email_address: rforgeon@gmail.com
+  behance:
+  bitbucket:
+  dribbble:
+  facebook:
+  flickr:
+  github: rforgeon
+  google_plus:
+  instagram:
+  linkedin:  https://www.linkedin.com/in/forgeon
+  pinterest:
+  reddit:
+  soundcloud:
+  stack_exchange:  # Full URL
+  steam:
+  tumblr:
+  twitter: rjforgeon
+  wordpress:
+  youtube:
+
+  # Scripts
+  google_analytics: "UA-84262886-1"
+  disqus_shortname:
+  katex: true # Enable if using math markup
+
+  # Localization strings
+  str_follow_on: "Follow on"
+  str_rss_follow: "Follow RSS feed"
+  str_email: "Email"
+  str_next: "Next"
+  str_prev: "Prev"
+  str_continue_reading: "Read more &raquo;"
+
+  # Colours, typography and padding
+  # Open the "_sass > base" folder, and open "_variables.scss"
+  google_fonts: "Lato:300,400,700,300italic,700italic|Raleway"
+
+# PAGINATION
+paginate: 100
+paginate_path: "blog/page:num"
+
+# COLLECTIONS
+collections:
+  portfolio:
+    output: true
+    permalink: /portfolio/:path/
+
+# BUILD SETTINGS
+markdown: kramdown
+
+sass:
+  sass_dir: _sass
+  style: :compressed
+
+gems: [jekyll-paginate]
