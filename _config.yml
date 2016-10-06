@@ -70,8 +70,7 @@ markdown: kramdown
 sass:
   sass_dir: _sass
   style: :compressed
+  
 
-gems: [jekyll-paginate]
-
-gems: ['kramdown']
+gems: ['kramdown','jekyll-paginate']
 exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'Procfile', 'Rakefile']
