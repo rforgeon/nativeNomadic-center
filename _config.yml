@@ -72,5 +72,5 @@ sass:
   style: :compressed
 
 
-gems: ['kramdown','jekyll-paginate']
-# exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'Procfile', 'Rakefile']
+gems: ['jekyll-paginate']
+exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor']
