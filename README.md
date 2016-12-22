@@ -1,15 +1,11 @@
-# Portfolio Kami Theme
-## Based on Type Theme
+#NativeNomdic
 
-![Default Type Theme blog](https://bloc-global-assets.s3.amazonaws.com/portfolio/portfolio-kami.png)
+##What
+Digital nomad resources landing page.
 
-A free and open-source [Jekyll](http://jekyllrb.com) theme. Great for blogs and easy to customize.
+##How
+This landing page is built using the [Jekyll Kami Theme](https://github.com/Bloc/portfolio-kami).
 
-## Get Started
-
-[Demo](http://madebymunsters.github.io/Lannister/)
-
-[Using Type](https://rohanchandra.github.io/project/type/)
-
-## License
-The MIT License (MIT)
+<div style="center">
+  <img src="https://cldup.com/KOb-T5jgS2.png"/>
+</div>
